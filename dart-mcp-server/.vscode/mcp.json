@@ -1,0 +1,8 @@
+{
+    "servers": {
+        "dart-tools": {
+            "type": "stdio",
+            "command": "/Users/jacob/Projects/dart-mcp-server/dart_tool",
+        }
+    }
+}
